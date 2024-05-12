@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CarryForward/CarryForward.iml" filepath="$PROJECT_DIR$/CarryForward/CarryForward.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA Contest/DSA Contest.iml" filepath="$PROJECT_DIR$/DSA Contest/DSA Contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoPointers/TwoPointers.iml" filepath="$PROJECT_DIR$/TwoPointers/TwoPointers.iml" />
     </modules>
   </component>
 </project>
